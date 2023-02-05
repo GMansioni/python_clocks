@@ -9,7 +9,7 @@ pygame.init()
 screen = pygame.display.set_mode((0, 0), pygame.FULLSCREEN)
 
 # Set clock properties
-clock_radius = 200
+clock_radius = 300
 clock_position = (screen.get_width() // 2, screen.get_height() // 2)
 
 while True:
